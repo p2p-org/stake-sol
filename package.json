@@ -1,0 +1,26 @@
+{
+  "name": "p2p-solana-staking",
+  "version": "1.0.0",
+  "description": "Stake for P2P Validator on Solana.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p2p-org/stake-sol.git"
+  },
+  "keywords": [
+    "staking"
+  ],
+  "author": "p2p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p2p-org/stake-sol/issues"
+  },
+  "homepage": "https://github.com/p2p-org/stake-sol#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.32.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
