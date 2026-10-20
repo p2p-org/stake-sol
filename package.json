@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/p2p-org/stake-sol#readme",
   "dependencies": {
-    "@solana/web3.js": "^1.32.2",
+    "@solana/web3.js": "^3.0.0",
     "prompt-sync": "^4.2.0"
   }
 }
